@@ -1,0 +1,29 @@
+#logout{
+    border-width: 5px;
+    border-style: solid;
+    right: 15px;
+    top: 50px;
+    position: absolute;
+    transition: 0.3s;
+    cursor: pointer;
+}
+#logout a{
+    color: white;
+    text-decoration: none;
+    text-decoration-color: white;
+}
+#about{
+    color: white;
+    border-width: 5px;
+    border-style: solid;
+    right: 100px;
+    top: 50px;
+    position: absolute;
+    transition: 0.3s;
+    cursor: pointer;
+}
+#about a{
+    color: white;
+    text-decoration: none;
+    text-decoration-color: white;
+}
